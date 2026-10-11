@@ -8,7 +8,7 @@ I am continuously learning and improving my skills in software testing and quali
 
 ## Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/jonathan-christian-967504326)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-christian-967504326)
 
 # Tech Stack
 
